@@ -1,1 +1,0 @@
-console.log("Hello class, this is vs code testing");
